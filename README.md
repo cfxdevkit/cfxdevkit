@@ -4,9 +4,9 @@ This repository is a growing collection of resources designed to simplify and su
 
 ### What's Here?  
 
-- **CLI for managing local nodes**:  
+- **CLI for managing local development nodes**:  
   [QuickStart Guide for Deno CLI](https://github.com/cfxdevkit/deno-cli/wiki/QuickStart)  
-  Launch and manage local Conflux nodes effortlessly.  
+  Launch and manage local development Conflux nodes effortlessly.  
 
 - **Repository Template**:  
   [Quickstart Guide for Repository Template](https://github.com/cfxdevkit/repository-template/wiki/Quickstart-Guide)  
