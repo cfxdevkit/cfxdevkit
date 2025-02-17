@@ -20,6 +20,30 @@ This repository is a growing collection of resources designed to simplify and su
   [Quickstart Guide for Espace Hardhat Template](https://github.com/cfxdevkit/espace-hardhat-template/wiki/Quickstart-Guide)  
   Build Ethereum-compatible smart contracts on Conflux Espace with Ignition.
 
+- **Conflux eSpace Scanner Client**:  
+  [Documentation for eSpace Scanner](https://github.com/cfxdevkit/espace-scanner)  
+  TypeScript library for interacting with Conflux eSpace Scanner API.
+
+- **Conflux Core Scanner Client**:  
+  [Documentation for Core Scanner](https://github.com/cfxdevkit/core-scanner)  
+  TypeScript library for interacting with Conflux Core Scanner API.
+
+- **GeckoTerminal API Client**:  
+  [Documentation for GeckoTerminal](https://github.com/cfxdevkit/geckoterminal)  
+  TypeScript library for accessing DeFi protocol and token data via GeckoTerminal.
+
+- **DeFiLlama API Client**:  
+  [Documentation for DeFiLlama](https://github.com/cfxdevkit/defillama)  
+  TypeScript library for accessing TVL and DeFi protocol data via DeFiLlama.
+
+- **AIFlux Starter Kit**:  
+  [Documentation for AIFlux](https://github.com/cfxdevkit/aiflux-starter)  
+  Starter kit for building AI-powered blockchain applications on Conflux.
+
+- **Full Stack dApp Template**:  
+  [Documentation for Full Stack Template](https://github.com/cfxdevkit/full-stack-template)  
+  Educational template for learning full-stack dApp development on Conflux.
+
 ---
 
 ### 🌟 Join Us in Building!  
