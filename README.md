@@ -44,6 +44,9 @@ This repository is a growing collection of resources designed to simplify and su
   [Documentation for Full Stack Template](https://github.com/cfxdevkit/full-stack-template)  
   Educational template for learning full-stack dApp development on Conflux.
 
+- **Phaser 3 dApp Template**:  
+  [Documentation for Phaser 3 dApp Template]([https://github.com/cfxdevkit/full-stack-template](https://github.com/cfxdevkit/conflux-phaser))  
+  Demo Phaser game engine with RainbowKit for blockchain wallet connectivity on the Conflux network.
 ---
 
 ### 🌟 Join Us in Building!  
