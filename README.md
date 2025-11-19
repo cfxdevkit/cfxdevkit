@@ -1,6 +1,8 @@
 ## Hi there 👋 Welcome to **CFX DevKit**!
 
-This repository is a growing collection of resources designed to simplify and supercharge your **Conflux development journey**. Whether you're building for **Conflux Core** or **Espace**, you'll find tools and templates to get started quickly.  
+This repository is a growing collection of resources designed to simplify and supercharge your **Conflux development journey**. Whether you're building for **Conflux Core** or **Espace**, you'll find tools and templates to get started quickly.
+
+> ⚠️ **Important Migration Notice**: This repository is undergoing a major restructuring to adopt a monorepo architecture with npm package management. All existing packages in this repository will be **deprecated and migrated** to the new unified toolkit structure. For the latest developments and new packages, please refer to the new monorepo structure. Stay tuned for migration guides and documentation updates!  
 
 ### What's Here?  
 
@@ -54,6 +56,20 @@ This repository is a growing collection of resources designed to simplify and su
 This project is in its early stages, and **your feedback and suggestions are invaluable**. Let's work together to create better tools and resources for the Conflux ecosystem.  
 
 Feel free to explore, use, and contribute! 🚀  
+
+---
+
+### 🏆 Recognition & Achievements
+
+We're proud of the projects that have emerged from the CFX DevKit ecosystem and the recognition they've received:
+
+- **AIFlux**: 🥉 3rd Place at AI Agents Hackathon (Jan 2025) - A Conflux plugin enabling seamless Core/eSpace interactions, swaps, and network analytics. [Read more](https://medium.com/conflux-network/ai-agents-hackathon-winners-announcement-37c29f1917e4)
+
+- **ChainBrawler**: 🏆 Top 5 Winner at Code Without Borders — SummerHackfest 2025 - Full on-chain RPG with reusable modules and high-quality engineering, featuring characters, combat, leaderboards, and a great foundation for Conflux gaming. [Read more](https://medium.com/conflux-network/code-without-borders-summerhackfest-2025-winners-highlights-41f491f1e1b6)
+
+- **conflux-box**: 🎖️ Next Tier Recognition at Code Without Borders — SummerHackfest 2025 - Developer platform accelerating Conflux building with real-time tools. [Read more](https://medium.com/conflux-network/code-without-borders-summerhackfest-2025-winners-highlights-41f491f1e1b6)
+
+These achievements validate our mission to provide developers with powerful resources for building on Conflux!
 
 --- 
 
